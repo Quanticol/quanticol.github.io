@@ -4,8 +4,8 @@ main:
     url: http://quanticol.github.io/CARMA/
   - title: "Carma Graphical Plugin"
     url: /cgp.html
-  - title: "jSSTL"
-    url: /jsstl.html
+  #- title: "jSSTL"
+  #  url: /jsstl.html
   - title: "Toolset"
     url: /satellite.html
   # - title: "About"

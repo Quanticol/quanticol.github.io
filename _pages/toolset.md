@@ -35,3 +35,7 @@ The source code of the plug-in is available [here](https://github.com/cfeng783/p
 
 Topochecker is a spatio-temporal model checker based on closure spaces and Kripke frames. Currently it checks a spatial extension of CTL named STLCS (spatio-temporal logic of closure spaces).
 The current version of topochecker, given its prototypical nature, is available in source code form at [github](https://github.com/vincenzoml/topochecker), where you can find more information, download the tool and experiment with it.
+
+## jSSTL
+
+jSSTL is a Java tool for the specification and verification of SSTL. This tool, developed in Java, consists of a Java library (jSSTL API) and a front-end, integrated in ECLIPSE.
