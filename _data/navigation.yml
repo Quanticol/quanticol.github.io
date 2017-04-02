@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Carma Eclipse Plugin"
+    url: https://quanticol.github.io/CARMA/
+  - title: "Carma Graphical Plugin"
+    url: /cgp.html
+  - title: "jSSTL"
+    url: /jsstl.html
+  - title: "Toolset"
+    url: /satellite.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

@@ -1,1 +1,0 @@
-# quanticol.github.io
