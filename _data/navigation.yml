@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Carma Eclipse Plugin"
-    url: https://quanticol.github.io/CARMA/
+    url: http://quanticol.github.io/CARMA/
   - title: "Carma Graphical Plugin"
     url: /cgp.html
   - title: "jSSTL"
