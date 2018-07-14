@@ -44,8 +44,8 @@ header:
 {% include feature_row id="intro" type="center" %}
 
 
-This site is a container for the tools developed in the [QUANTICOL](http://www.quanticol.eu) project.
+This site is a container for the tools developed in the [QUANTICOL](http://blog.inf.ed.ac.uk/quanticol/) project.
 
-The main objective of the [QUANTICOL](http://www.quanticol.eu) project is the development of an innovative formal design framework that provides a specification language for collective adaptive systems (CAS) and a large variety of tool-supported, scalable analysis and verification techniques.
+The main objective of the [QUANTICOL](http://blog.inf.ed.ac.uk/quanticol/) project is the development of an innovative formal design framework that provides a specification language for collective adaptive systems (CAS) and a large variety of tool-supported, scalable analysis and verification techniques.
 
 These techniques will be based on the original combination of recent breakthroughs in stochastic process algebras and associated verification techniques, and mean field/continuous approximation and control theory. Such a design framework will provide scalable extensive support for the verification of developed models, and also enable and facilitate experimentation and discovery of new design patterns for emergent behaviour and control over spatially distributed CAS.
